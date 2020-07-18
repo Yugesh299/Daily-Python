@@ -1,2 +1,2 @@
 # Daily-Python
-This is a repository that has 30 Days of daily basic python practice problems
+This repository comprises of 30 Jupyter Notebooks which contain practice code of basic Python and a few Machine Learning algorithms implemented in python as well.
